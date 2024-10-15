@@ -1,6 +1,8 @@
 # Challenge - Forum Hub
 
-API de Fórum que implementa um CRUD (CREATE, READ, UPDATE, DELETE) utilizando uma base de dados relacional para a persistência da informação e serviço de autenticação/autorização para restringir o acesso à informação.
+## 📋 Descrição do Projeto
+
+ㅤㅤㅤEste projeto é uma API REST desenvolvida com Spring Boot que implementa um CRUD (CREATE, READ, UPDATE, DELETE) permitindo o gerenciamento de tópicos utilizando uma base de dados relacional para a persistência da informação. Além de incluir a funcionalidade de autenticação/autorização de usuários por meio de JWT para restringir o acesso à informação, seguindo as melhores práticas de segurança.
 
 ## Ferramentas utilizadas
 

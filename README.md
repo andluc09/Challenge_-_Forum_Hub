@@ -18,6 +18,8 @@
 
 -  **Lombok**
 
+-  **JWT - JSON Web Tokens**
+
 ## Funcionalidades
 
 - Registro e autenticação de usuários.
